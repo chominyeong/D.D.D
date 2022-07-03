@@ -1,4 +1,5 @@
 # D.D.D
-💻 SookTat Deep Learning Project #2 숙탯 딥러닝 프로젝트 2조
+💻 SookTat Deep Learning Project #2
 
-* Title ; Drowsiness Driving Detection
+* Subject ; Drowsiness Driving Detection
+* Members ; 고나경, 이민지, 임주영, 조민영
