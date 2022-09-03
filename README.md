@@ -5,4 +5,4 @@
 * **Members** : 고나경, 이민지, 임주영, 조민영
 
 * 📌 Mid-Presentation on **22/08/08**
-* 📌 Fin-Presentation on **22/08/29**
+* 📌 Fin-Presentation on **22/09/05**
